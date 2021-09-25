@@ -2,8 +2,8 @@
 
 Welcome to my Github profile.
 
-**![Needle in haystack](https://gist.githubusercontent.com/mbtrs/c57c32cbff07ccadb75c46d25969cc70/raw/)**
-~ **![Alphabet generator](https://gist.githubusercontent.com/mbtrs/25e75ad6b11c4ec11747bcb8843ed77d/raw/)**
+**![Needle In Haystack](https://gist.githubusercontent.com/mbtrs/c57c32cbff07ccadb75c46d25969cc70/raw/)**
+~ **![Alphabet Generator](https://gist.githubusercontent.com/mbtrs/25e75ad6b11c4ec11747bcb8843ed77d/raw/)**
 ~ **![Lottery Number Generator](https://gist.githubusercontent.com/mbtrs/af8b3337690486ee0a82c0b003a7c43b/raw/)**
 ~ **![EXIF Remover](https://gist.githubusercontent.com/mbtrs/98f055b4398580cadc635ddb44847b39/raw/)**
 
