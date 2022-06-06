@@ -1,6 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-Welcome to my Github profile.
+### Welcome to my Github profile.
 
 Here you will find some projects that I've created.
 
