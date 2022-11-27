@@ -1,6 +1,6 @@
 ### Welcome to my Github profile.
 
-Come on in! Explore my repos for tools/projects that I've created.
+Come on in! Explore my repos for some of the tools/projects that I've created.
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?label=Favorite%20YT%3A%20FreeCodeCamp&style=for-the-badge)](https://www.youtube.com/c/Freecodecamp/videos) [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/privacy?label=Favorite%20Sub%3A%20r%2FPrivacy&style=for-the-badge)](https://www.reddit.com/r/privacy/) -->
 
